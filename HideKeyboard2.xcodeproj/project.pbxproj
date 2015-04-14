@@ -416,6 +416,7 @@
 				391075DE1ADC6DBC002FE25B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		391075DF1ADC6DBC002FE25B /* Build configuration list for PBXNativeTarget "HideKeyboard2Tests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +425,7 @@
 				391075E11ADC6DBC002FE25B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
